@@ -7,7 +7,7 @@
 * Maven
 * IntelliJ
 * GitHub
-* Travi CI
+* Travis CI
 
 ### Descripción
 Repositorio que alberga el proyecto para la práctica individual de la asignatura de IWVG del Master de Ingeniería Web de la UPM.
