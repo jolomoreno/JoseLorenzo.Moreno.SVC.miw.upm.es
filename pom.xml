@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>JoseLorenzo.Moreno.SVC.miw.upm.es</artifactId>
 	<groupId>es.upm.miw.SVC.Moreno.JoseLorenzo</groupId>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>${project.groupId}.${project.artifactId}</name>
