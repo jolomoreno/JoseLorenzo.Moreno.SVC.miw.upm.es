@@ -1,6 +1,9 @@
 package es.upm.miw.SVC.Moreno.JoseLorenzo;
 
 public class C11 {
+
+    public C11(){}
+
     public String m1() {
         return "m1";
     }
