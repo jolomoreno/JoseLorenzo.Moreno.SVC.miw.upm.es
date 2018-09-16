@@ -14,7 +14,7 @@ public class C32Test {
     }
 
     @Test
-    void testM1() {
+    void testMA() {
         assertEquals("mA", c32.mA());
     }
 
